@@ -1,4 +1,14 @@
-## Hi there 👋
+## Hi there 👋, I am passionate about technology and committed to continuous learning and creating efficient solutions that work across devices and environments.
+
+### 🛠 Tech Stack
+[![My Skills](https://skillicons.dev/icons?i=python,java,html,css,js,mysql,postgres,unity,cs,angular,docker,vscode,linux,git,github)](https://github.com/dfl3p3r?tab=repositories)
+
+### GitHub Stats
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=dfl3p3r&theme=blue-green)![](https://github-readme-stats.vercel.app/api?username=dfl3p3r&theme=blue-green)
+
+<a href="https://github.com/dfl3p3r/" target="_blank">
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWlicG03anMxeTRwdjBqb2k0MHVnanA0N2U2aDVoaDBmaTJ4NWl2ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.webp" alt="GitHub" width="80" height="80">
+</a>
 
 <!--
 **dfl3p3r/dfl3p3r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
