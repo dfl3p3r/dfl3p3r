@@ -6,7 +6,7 @@
 ### 🛠 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dfl3p3r&theme=blue-green)![](https://github-readme-stats.vercel.app/api?username=dfl3p3r&theme=blue-green)
 
-<a href="https://github.com/dfl3p3r/" target="_blank">
+<a href="https://github.com/dfl3p3r?tab=repositories" target="_blank">
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWlicG03anMxeTRwdjBqb2k0MHVnanA0N2U2aDVoaDBmaTJ4NWl2ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.webp" alt="GitHub" width="80" height="80">
 </a>
 
