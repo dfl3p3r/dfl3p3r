@@ -3,7 +3,7 @@
 ### 🛠 Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=python,java,html,css,js,mysql,postgres,unity,cs,angular,docker,vscode,linux,git,github)](https://github.com/dfl3p3r?tab=repositories)
 
-### GitHub Stats
+### 🛠 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dfl3p3r&theme=blue-green)![](https://github-readme-stats.vercel.app/api?username=dfl3p3r&theme=blue-green)
 
 <a href="https://github.com/dfl3p3r/" target="_blank">
